@@ -1,0 +1,17 @@
+{
+  "name": "simple-login-node",
+  "version": "1.0.0",
+  "description": "login simples usando o node",
+  "main": "index.js",
+  "scripts": {
+    "comecar": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Justin Rignault",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
